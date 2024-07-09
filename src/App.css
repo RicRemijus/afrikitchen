@@ -1,0 +1,4 @@
+  @keyframes slideOut {
+    from{transform: translateX(-56%) ;}
+    to{transform: translateX(0%);}
+  }
