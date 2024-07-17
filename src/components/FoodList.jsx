@@ -11,7 +11,7 @@ const FoodList = () => {
     const dispatch = useDispatch();
     const foodItems = useSelector((state) => state.foodItems. items);
     
-    console.log(foodItems)
+    //console.log(foodItems)
 
   
     useEffect(() =>{

@@ -33,7 +33,7 @@ const Extras = () => {
   
           return () => clearTimeout(typingTimeout);
       }, [currentText, isDeleting, loopNum]);
-    console.log(extras)
+    //console.log(extras)
   return (
     <> 
     <div className='max-w-[1366px] mx-auto pt-20'>

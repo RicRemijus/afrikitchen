@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="flex  flex-wrap mx-4">
                 <div className="lg:w-1/4 md:w-1/2 w-full px-4 mb-8">
 
-               <img src="/img/afrikitchen.png" alt="" className='my-10'/>
+               <img src="/img/logo.png" alt="" className='my-10 h-40 w-60'/>
                 <p className="text-sm ">We will always be at your service, eat good and look healthy!!!</p>
                 </div>
   
@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
         <hr />
         <div className="flex flex-col md:flex-row items-center justify-between px-4">
-          <p className='font-bold md:text-[22px] text-orange-500'>&copy; 2024 Afri-Kitchen. All rights reserved</p>
+          <p className='font-bold md:text-[22px] text-orange-500'>&copy; 2024 <b className='text-white'>IgboFoods.</b> All rights reserved</p>
           <ul className="space-x-4 ">
             <a href="#" className="font-bold  hover:text-emerald-400">Branches</a>
             <a href="#" className="font-bold  hover:text-emerald-400">Instagram</a>
