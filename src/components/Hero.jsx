@@ -30,8 +30,8 @@ const Hero = () => {
          </div>
     </div>
     {/**HeroCard Section */}
-    <div className="max-w-[1366px] mx-auto grid md:grid-cols-3 gap-6 p-4 lg:p-0 py-4 lg:py-8">
-        <div className="rounde-xl relative">
+    <div className="max-w-[1366px] mx-auto grid md:grid-cols-3 gap-6 p-4 lg:p-0 py-4 lg:py-8 mt-8">
+        <div className="rounded-xl relative">
             {/**Overlay */}
             <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
                 <p className='font-bold text-2xl px-2 pt-10'>Eat In or Takeaway</p>

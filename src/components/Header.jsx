@@ -10,7 +10,7 @@ const Header = () => {
        <div className="sm:mx-20 flex justify-between items-center">
         
        <div className='flex'>
-       <Link to={"/"} className='text-2xl text-white'>Igbo <span className='font-bold'>Foods</span></Link>
+       <Link to={"/"} className='text-2xl text-white'>Eat<span className='font-bold'>ry</span></Link>
        
        <div className='hidden lg:flex items-center p-1 ml-3 mt-1 text-[15px] bg-gray-200 rounded-full h-10'>
             <p className='bg-black text-white rounded-full p-1'>Delivery</p>

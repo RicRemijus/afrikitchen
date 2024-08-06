@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
         <hr />
         <div className="flex flex-col md:flex-row items-center justify-between px-4">
-          <p className='font-bold md:text-[22px] text-orange-500'>&copy; 2024 <b className='text-white'>IgboFoods.</b> All rights reserved</p>
+          <p className='font-bold md:text-[22px] text-orange-500'>&copy; 2024 <b className='text-white'>Eatry.</b> All rights reserved</p>
           <ul className="space-x-4 ">
             <a href="#" className="font-bold  hover:text-emerald-400">Branches</a>
             <a href="#" className="font-bold  hover:text-emerald-400">Instagram</a>
